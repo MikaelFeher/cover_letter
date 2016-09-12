@@ -28,4 +28,4 @@ I can be, simply to be better today then I was yesterday and better tomorrow tha
 Well, I have tried several different fields before I got bit by the coding bug; I have worked in healthcare, 
 security and on the railroad. It took me this long and that many tries to find my calling in life, I love coding. 
 If my way into the industry is indicative in any way, then it is that I can handle challenges, that I am passionate about coding, that I am a fast learner, that I can acquire knowledge needed to get the job done. I strive to get the job done:
-"I strive to wite well-crafted code, but most important is working maintainable software that meet's the clients need"
+"I strive to write well-crafted code, but most important is working maintainable software that meet's the clients need"
